@@ -1,2 +1,2 @@
 # Data-Crunch
-Calculation for Senior Lab
+Calculations for Senior Lab
