@@ -1,2 +1,4 @@
 # Data-Crunch
-Calculations for Senior Lab
+Examples of programs that collect, organize, and analyze data.
+
+Written in Matlab.
